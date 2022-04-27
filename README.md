@@ -12,7 +12,7 @@
 
 
 
-- While Columns are (Loan Term, Gender, Customer Segment, Age, Month of date, Total O_S, DPD) We divided the data into train and test data and made one-hot encoding
+### While Columns are (Loan Term, Gender, Customer Segment, Age, Month of date, Total O_S, DPD) We divided the data into train and test data and made one-hot encoding
 
 1) RandomForest Classifier:
 Accuracy 77.10%
